@@ -1,0 +1,14 @@
+C:\Users\Davi\Desktop\Estudos\PRINCIPAL\C#\Estudos PROG UNIVERSIDADE (universidade)\Aulas\1 ciclo\Sem 10\Ejercicios\Nota de aprobación\bin\Debug\net8.0\Nota de aprobación.exe
+C:\Users\Davi\Desktop\Estudos\PRINCIPAL\C#\Estudos PROG UNIVERSIDADE (universidade)\Aulas\1 ciclo\Sem 10\Ejercicios\Nota de aprobación\bin\Debug\net8.0\Nota de aprobación.deps.json
+C:\Users\Davi\Desktop\Estudos\PRINCIPAL\C#\Estudos PROG UNIVERSIDADE (universidade)\Aulas\1 ciclo\Sem 10\Ejercicios\Nota de aprobación\bin\Debug\net8.0\Nota de aprobación.runtimeconfig.json
+C:\Users\Davi\Desktop\Estudos\PRINCIPAL\C#\Estudos PROG UNIVERSIDADE (universidade)\Aulas\1 ciclo\Sem 10\Ejercicios\Nota de aprobación\bin\Debug\net8.0\Nota de aprobación.dll
+C:\Users\Davi\Desktop\Estudos\PRINCIPAL\C#\Estudos PROG UNIVERSIDADE (universidade)\Aulas\1 ciclo\Sem 10\Ejercicios\Nota de aprobación\bin\Debug\net8.0\Nota de aprobación.pdb
+C:\Users\Davi\Desktop\Estudos\PRINCIPAL\C#\Estudos PROG UNIVERSIDADE (universidade)\Aulas\1 ciclo\Sem 10\Ejercicios\Nota de aprobación\obj\Debug\net8.0\Nota de aprobación.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Davi\Desktop\Estudos\PRINCIPAL\C#\Estudos PROG UNIVERSIDADE (universidade)\Aulas\1 ciclo\Sem 10\Ejercicios\Nota de aprobación\obj\Debug\net8.0\Nota de aprobación.AssemblyInfoInputs.cache
+C:\Users\Davi\Desktop\Estudos\PRINCIPAL\C#\Estudos PROG UNIVERSIDADE (universidade)\Aulas\1 ciclo\Sem 10\Ejercicios\Nota de aprobación\obj\Debug\net8.0\Nota de aprobación.AssemblyInfo.cs
+C:\Users\Davi\Desktop\Estudos\PRINCIPAL\C#\Estudos PROG UNIVERSIDADE (universidade)\Aulas\1 ciclo\Sem 10\Ejercicios\Nota de aprobación\obj\Debug\net8.0\Nota de aprobación.csproj.CoreCompileInputs.cache
+C:\Users\Davi\Desktop\Estudos\PRINCIPAL\C#\Estudos PROG UNIVERSIDADE (universidade)\Aulas\1 ciclo\Sem 10\Ejercicios\Nota de aprobación\obj\Debug\net8.0\Nota de aprobación.dll
+C:\Users\Davi\Desktop\Estudos\PRINCIPAL\C#\Estudos PROG UNIVERSIDADE (universidade)\Aulas\1 ciclo\Sem 10\Ejercicios\Nota de aprobación\obj\Debug\net8.0\refint\Nota de aprobación.dll
+C:\Users\Davi\Desktop\Estudos\PRINCIPAL\C#\Estudos PROG UNIVERSIDADE (universidade)\Aulas\1 ciclo\Sem 10\Ejercicios\Nota de aprobación\obj\Debug\net8.0\Nota de aprobación.pdb
+C:\Users\Davi\Desktop\Estudos\PRINCIPAL\C#\Estudos PROG UNIVERSIDADE (universidade)\Aulas\1 ciclo\Sem 10\Ejercicios\Nota de aprobación\obj\Debug\net8.0\Nota de aprobación.genruntimeconfig.cache
+C:\Users\Davi\Desktop\Estudos\PRINCIPAL\C#\Estudos PROG UNIVERSIDADE (universidade)\Aulas\1 ciclo\Sem 10\Ejercicios\Nota de aprobación\obj\Debug\net8.0\ref\Nota de aprobación.dll

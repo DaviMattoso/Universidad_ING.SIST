@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Davi\\Documents\\REP-Estudios-Universidad_C-Sharp\\Estudios-Universidad_C-Sharp\\Temas universidad\\1 ciclo\\Semana 09\\Ejercicios\\Acceso por clave\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1DC5914E-FD01-44D0-A229-DF55655102EE}|Accesi por clave.csproj|c:\\users\\davi\\documents\\rep-estudios-universidad_c-sharp\\estudios-universidad_c-sharp\\temas universidad\\1 ciclo\\semana 09\\ejercicios\\acceso por clave\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DC5914E-FD01-44D0-A229-DF55655102EE}|Accesi por clave.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DC5914E-FD01-44D0-A229-DF55655102EE}|Accesi por clave.csproj|c:\\users\\davi\\documents\\rep-estudios-universidad_c-sharp\\estudios-universidad_c-sharp\\temas universidad\\1 ciclo\\semana 09\\ejercicios\\acceso por clave\\accesi por clave.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1DC5914E-FD01-44D0-A229-DF55655102EE}|Accesi por clave.csproj|solutionrelative:accesi por clave.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Davi\\Documents\\REP-Estudios-Universidad_C-Sharp\\Estudios-Universidad_C-Sharp\\Temas universidad\\1 ciclo\\Semana 09\\Ejercicios\\Acceso por clave\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Davi\\Documents\\REP-Estudios-Universidad_C-Sharp\\Estudios-Universidad_C-Sharp\\Temas universidad\\1 ciclo\\Semana 09\\Ejercicios\\Acceso por clave\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T21:11:44.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Accesi por clave",
+              "DocumentMoniker": "C:\\Users\\Davi\\Documents\\REP-Estudios-Universidad_C-Sharp\\Estudios-Universidad_C-Sharp\\Temas universidad\\1 ciclo\\Semana 09\\Ejercicios\\Acceso por clave\\Accesi por clave.csproj",
+              "RelativeDocumentMoniker": "Accesi por clave.csproj",
+              "ToolTip": "C:\\Users\\Davi\\Documents\\REP-Estudios-Universidad_C-Sharp\\Estudios-Universidad_C-Sharp\\Temas universidad\\1 ciclo\\Semana 09\\Ejercicios\\Acceso por clave\\Accesi por clave.csproj",
+              "RelativeToolTip": "Accesi por clave.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-03T21:11:40.912Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

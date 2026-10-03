@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Davi\\Documents\\REP-Estudios-Universidad_C-Sharp\\Estudios-Universidad_C-Sharp\\Temas universidad\\1 ciclo\\Semana 06\\Ejercicios\\\u00C1rea y perimetro\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E7CA71B9-7803-4372-98DF-DB482B72B237}|\u00C1rea y perimetro.csproj|c:\\users\\davi\\documents\\rep-estudios-universidad_c-sharp\\estudios-universidad_c-sharp\\temas universidad\\1 ciclo\\semana 06\\ejercicios\\\u00E1rea y perimetro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7CA71B9-7803-4372-98DF-DB482B72B237}|\u00C1rea y perimetro.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Davi\\Documents\\REP-Estudios-Universidad_C-Sharp\\Estudios-Universidad_C-Sharp\\Temas universidad\\1 ciclo\\Semana 06\\Ejercicios\\\u00C1rea y perimetro\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Davi\\Documents\\REP-Estudios-Universidad_C-Sharp\\Estudios-Universidad_C-Sharp\\Temas universidad\\1 ciclo\\Semana 06\\Ejercicios\\\u00C1rea y perimetro\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T21:18:13.809Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

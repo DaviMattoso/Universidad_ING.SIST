@@ -1,0 +1,15 @@
+C:\Users\Davi\Documents\REP-Estudios-Universidad_C-Sharp\Estudios-Universidad_C-Sharp\Temas universidad\1 ciclo\Semana 09\Ejercicios\Mayor edad\bin\Debug\net8.0\Mayor edad.exe
+C:\Users\Davi\Documents\REP-Estudios-Universidad_C-Sharp\Estudios-Universidad_C-Sharp\Temas universidad\1 ciclo\Semana 09\Ejercicios\Mayor edad\bin\Debug\net8.0\Mayor edad.deps.json
+C:\Users\Davi\Documents\REP-Estudios-Universidad_C-Sharp\Estudios-Universidad_C-Sharp\Temas universidad\1 ciclo\Semana 09\Ejercicios\Mayor edad\bin\Debug\net8.0\Mayor edad.runtimeconfig.json
+C:\Users\Davi\Documents\REP-Estudios-Universidad_C-Sharp\Estudios-Universidad_C-Sharp\Temas universidad\1 ciclo\Semana 09\Ejercicios\Mayor edad\bin\Debug\net8.0\Mayor edad.dll
+C:\Users\Davi\Documents\REP-Estudios-Universidad_C-Sharp\Estudios-Universidad_C-Sharp\Temas universidad\1 ciclo\Semana 09\Ejercicios\Mayor edad\bin\Debug\net8.0\Mayor edad.pdb
+C:\Users\Davi\Documents\REP-Estudios-Universidad_C-Sharp\Estudios-Universidad_C-Sharp\Temas universidad\1 ciclo\Semana 09\Ejercicios\Mayor edad\obj\Debug\net8.0\Mayor edad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Davi\Documents\REP-Estudios-Universidad_C-Sharp\Estudios-Universidad_C-Sharp\Temas universidad\1 ciclo\Semana 09\Ejercicios\Mayor edad\obj\Debug\net8.0\Mayor edad.AssemblyInfoInputs.cache
+C:\Users\Davi\Documents\REP-Estudios-Universidad_C-Sharp\Estudios-Universidad_C-Sharp\Temas universidad\1 ciclo\Semana 09\Ejercicios\Mayor edad\obj\Debug\net8.0\Mayor edad.AssemblyInfo.cs
+C:\Users\Davi\Documents\REP-Estudios-Universidad_C-Sharp\Estudios-Universidad_C-Sharp\Temas universidad\1 ciclo\Semana 09\Ejercicios\Mayor edad\obj\Debug\net8.0\Mayor edad.csproj.CoreCompileInputs.cache
+C:\Users\Davi\Documents\REP-Estudios-Universidad_C-Sharp\Estudios-Universidad_C-Sharp\Temas universidad\1 ciclo\Semana 09\Ejercicios\Mayor edad\obj\Debug\net8.0\Mayor edad.sourcelink.json
+C:\Users\Davi\Documents\REP-Estudios-Universidad_C-Sharp\Estudios-Universidad_C-Sharp\Temas universidad\1 ciclo\Semana 09\Ejercicios\Mayor edad\obj\Debug\net8.0\Mayor edad.dll
+C:\Users\Davi\Documents\REP-Estudios-Universidad_C-Sharp\Estudios-Universidad_C-Sharp\Temas universidad\1 ciclo\Semana 09\Ejercicios\Mayor edad\obj\Debug\net8.0\refint\Mayor edad.dll
+C:\Users\Davi\Documents\REP-Estudios-Universidad_C-Sharp\Estudios-Universidad_C-Sharp\Temas universidad\1 ciclo\Semana 09\Ejercicios\Mayor edad\obj\Debug\net8.0\Mayor edad.pdb
+C:\Users\Davi\Documents\REP-Estudios-Universidad_C-Sharp\Estudios-Universidad_C-Sharp\Temas universidad\1 ciclo\Semana 09\Ejercicios\Mayor edad\obj\Debug\net8.0\Mayor edad.genruntimeconfig.cache
+C:\Users\Davi\Documents\REP-Estudios-Universidad_C-Sharp\Estudios-Universidad_C-Sharp\Temas universidad\1 ciclo\Semana 09\Ejercicios\Mayor edad\obj\Debug\net8.0\ref\Mayor edad.dll

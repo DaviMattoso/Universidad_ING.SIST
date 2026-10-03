@@ -1,0 +1,15 @@
+C:\Users\Davi\Documents\REP-Estudios-Universidad_C-Sharp\Estudios-Universidad_C-Sharp\Temas universidad\1 ciclo\Semana 05\Ejercicios\Promedio 3 notas\bin\Debug\net8.0\Promedio 3 notas.exe
+C:\Users\Davi\Documents\REP-Estudios-Universidad_C-Sharp\Estudios-Universidad_C-Sharp\Temas universidad\1 ciclo\Semana 05\Ejercicios\Promedio 3 notas\bin\Debug\net8.0\Promedio 3 notas.deps.json
+C:\Users\Davi\Documents\REP-Estudios-Universidad_C-Sharp\Estudios-Universidad_C-Sharp\Temas universidad\1 ciclo\Semana 05\Ejercicios\Promedio 3 notas\bin\Debug\net8.0\Promedio 3 notas.runtimeconfig.json
+C:\Users\Davi\Documents\REP-Estudios-Universidad_C-Sharp\Estudios-Universidad_C-Sharp\Temas universidad\1 ciclo\Semana 05\Ejercicios\Promedio 3 notas\bin\Debug\net8.0\Promedio 3 notas.dll
+C:\Users\Davi\Documents\REP-Estudios-Universidad_C-Sharp\Estudios-Universidad_C-Sharp\Temas universidad\1 ciclo\Semana 05\Ejercicios\Promedio 3 notas\bin\Debug\net8.0\Promedio 3 notas.pdb
+C:\Users\Davi\Documents\REP-Estudios-Universidad_C-Sharp\Estudios-Universidad_C-Sharp\Temas universidad\1 ciclo\Semana 05\Ejercicios\Promedio 3 notas\obj\Debug\net8.0\Promedio 3 notas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Davi\Documents\REP-Estudios-Universidad_C-Sharp\Estudios-Universidad_C-Sharp\Temas universidad\1 ciclo\Semana 05\Ejercicios\Promedio 3 notas\obj\Debug\net8.0\Promedio 3 notas.AssemblyInfoInputs.cache
+C:\Users\Davi\Documents\REP-Estudios-Universidad_C-Sharp\Estudios-Universidad_C-Sharp\Temas universidad\1 ciclo\Semana 05\Ejercicios\Promedio 3 notas\obj\Debug\net8.0\Promedio 3 notas.AssemblyInfo.cs
+C:\Users\Davi\Documents\REP-Estudios-Universidad_C-Sharp\Estudios-Universidad_C-Sharp\Temas universidad\1 ciclo\Semana 05\Ejercicios\Promedio 3 notas\obj\Debug\net8.0\Promedio 3 notas.csproj.CoreCompileInputs.cache
+C:\Users\Davi\Documents\REP-Estudios-Universidad_C-Sharp\Estudios-Universidad_C-Sharp\Temas universidad\1 ciclo\Semana 05\Ejercicios\Promedio 3 notas\obj\Debug\net8.0\Promedio 3 notas.sourcelink.json
+C:\Users\Davi\Documents\REP-Estudios-Universidad_C-Sharp\Estudios-Universidad_C-Sharp\Temas universidad\1 ciclo\Semana 05\Ejercicios\Promedio 3 notas\obj\Debug\net8.0\Promedio 3 notas.dll
+C:\Users\Davi\Documents\REP-Estudios-Universidad_C-Sharp\Estudios-Universidad_C-Sharp\Temas universidad\1 ciclo\Semana 05\Ejercicios\Promedio 3 notas\obj\Debug\net8.0\refint\Promedio 3 notas.dll
+C:\Users\Davi\Documents\REP-Estudios-Universidad_C-Sharp\Estudios-Universidad_C-Sharp\Temas universidad\1 ciclo\Semana 05\Ejercicios\Promedio 3 notas\obj\Debug\net8.0\Promedio 3 notas.pdb
+C:\Users\Davi\Documents\REP-Estudios-Universidad_C-Sharp\Estudios-Universidad_C-Sharp\Temas universidad\1 ciclo\Semana 05\Ejercicios\Promedio 3 notas\obj\Debug\net8.0\Promedio 3 notas.genruntimeconfig.cache
+C:\Users\Davi\Documents\REP-Estudios-Universidad_C-Sharp\Estudios-Universidad_C-Sharp\Temas universidad\1 ciclo\Semana 05\Ejercicios\Promedio 3 notas\obj\Debug\net8.0\ref\Promedio 3 notas.dll

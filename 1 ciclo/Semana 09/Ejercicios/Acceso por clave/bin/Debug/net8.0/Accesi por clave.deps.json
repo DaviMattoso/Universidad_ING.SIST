@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Accesi por clave/1.0.0": {
+        "runtime": {
+          "Accesi por clave.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Accesi por clave/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

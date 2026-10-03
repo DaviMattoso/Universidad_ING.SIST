@@ -1,0 +1,14 @@
+C:\Users\Davi\Desktop\Estudos\PRINCIPAL\C#\Estudos PROG UNIVERSIDADE (universidade)\Aulas\1 ciclo\Sem 10\Ejercicios\Número dentro de un rango\bin\Debug\net8.0\Número dentro de un rango.exe
+C:\Users\Davi\Desktop\Estudos\PRINCIPAL\C#\Estudos PROG UNIVERSIDADE (universidade)\Aulas\1 ciclo\Sem 10\Ejercicios\Número dentro de un rango\bin\Debug\net8.0\Número dentro de un rango.deps.json
+C:\Users\Davi\Desktop\Estudos\PRINCIPAL\C#\Estudos PROG UNIVERSIDADE (universidade)\Aulas\1 ciclo\Sem 10\Ejercicios\Número dentro de un rango\bin\Debug\net8.0\Número dentro de un rango.runtimeconfig.json
+C:\Users\Davi\Desktop\Estudos\PRINCIPAL\C#\Estudos PROG UNIVERSIDADE (universidade)\Aulas\1 ciclo\Sem 10\Ejercicios\Número dentro de un rango\bin\Debug\net8.0\Número dentro de un rango.dll
+C:\Users\Davi\Desktop\Estudos\PRINCIPAL\C#\Estudos PROG UNIVERSIDADE (universidade)\Aulas\1 ciclo\Sem 10\Ejercicios\Número dentro de un rango\bin\Debug\net8.0\Número dentro de un rango.pdb
+C:\Users\Davi\Desktop\Estudos\PRINCIPAL\C#\Estudos PROG UNIVERSIDADE (universidade)\Aulas\1 ciclo\Sem 10\Ejercicios\Número dentro de un rango\obj\Debug\net8.0\Número dentro de un rango.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Davi\Desktop\Estudos\PRINCIPAL\C#\Estudos PROG UNIVERSIDADE (universidade)\Aulas\1 ciclo\Sem 10\Ejercicios\Número dentro de un rango\obj\Debug\net8.0\Número dentro de un rango.AssemblyInfoInputs.cache
+C:\Users\Davi\Desktop\Estudos\PRINCIPAL\C#\Estudos PROG UNIVERSIDADE (universidade)\Aulas\1 ciclo\Sem 10\Ejercicios\Número dentro de un rango\obj\Debug\net8.0\Número dentro de un rango.AssemblyInfo.cs
+C:\Users\Davi\Desktop\Estudos\PRINCIPAL\C#\Estudos PROG UNIVERSIDADE (universidade)\Aulas\1 ciclo\Sem 10\Ejercicios\Número dentro de un rango\obj\Debug\net8.0\Número dentro de un rango.csproj.CoreCompileInputs.cache
+C:\Users\Davi\Desktop\Estudos\PRINCIPAL\C#\Estudos PROG UNIVERSIDADE (universidade)\Aulas\1 ciclo\Sem 10\Ejercicios\Número dentro de un rango\obj\Debug\net8.0\Número dentro de un rango.dll
+C:\Users\Davi\Desktop\Estudos\PRINCIPAL\C#\Estudos PROG UNIVERSIDADE (universidade)\Aulas\1 ciclo\Sem 10\Ejercicios\Número dentro de un rango\obj\Debug\net8.0\refint\Número dentro de un rango.dll
+C:\Users\Davi\Desktop\Estudos\PRINCIPAL\C#\Estudos PROG UNIVERSIDADE (universidade)\Aulas\1 ciclo\Sem 10\Ejercicios\Número dentro de un rango\obj\Debug\net8.0\Número dentro de un rango.pdb
+C:\Users\Davi\Desktop\Estudos\PRINCIPAL\C#\Estudos PROG UNIVERSIDADE (universidade)\Aulas\1 ciclo\Sem 10\Ejercicios\Número dentro de un rango\obj\Debug\net8.0\Número dentro de un rango.genruntimeconfig.cache
+C:\Users\Davi\Desktop\Estudos\PRINCIPAL\C#\Estudos PROG UNIVERSIDADE (universidade)\Aulas\1 ciclo\Sem 10\Ejercicios\Número dentro de un rango\obj\Debug\net8.0\ref\Número dentro de un rango.dll

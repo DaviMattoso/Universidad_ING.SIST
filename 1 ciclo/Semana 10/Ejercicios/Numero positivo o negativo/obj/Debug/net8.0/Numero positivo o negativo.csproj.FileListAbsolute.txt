@@ -1,0 +1,14 @@
+C:\Users\Davi\Desktop\Estudos\PRINCIPAL\C#\Estudos PROG UNIVERSIDADE (universidade)\Aulas\1 ciclo\Sem 10\Ejercicios\Numero positivo o negativo\bin\Debug\net8.0\Numero positivo o negativo.exe
+C:\Users\Davi\Desktop\Estudos\PRINCIPAL\C#\Estudos PROG UNIVERSIDADE (universidade)\Aulas\1 ciclo\Sem 10\Ejercicios\Numero positivo o negativo\bin\Debug\net8.0\Numero positivo o negativo.deps.json
+C:\Users\Davi\Desktop\Estudos\PRINCIPAL\C#\Estudos PROG UNIVERSIDADE (universidade)\Aulas\1 ciclo\Sem 10\Ejercicios\Numero positivo o negativo\bin\Debug\net8.0\Numero positivo o negativo.runtimeconfig.json
+C:\Users\Davi\Desktop\Estudos\PRINCIPAL\C#\Estudos PROG UNIVERSIDADE (universidade)\Aulas\1 ciclo\Sem 10\Ejercicios\Numero positivo o negativo\bin\Debug\net8.0\Numero positivo o negativo.dll
+C:\Users\Davi\Desktop\Estudos\PRINCIPAL\C#\Estudos PROG UNIVERSIDADE (universidade)\Aulas\1 ciclo\Sem 10\Ejercicios\Numero positivo o negativo\bin\Debug\net8.0\Numero positivo o negativo.pdb
+C:\Users\Davi\Desktop\Estudos\PRINCIPAL\C#\Estudos PROG UNIVERSIDADE (universidade)\Aulas\1 ciclo\Sem 10\Ejercicios\Numero positivo o negativo\obj\Debug\net8.0\Numero positivo o negativo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Davi\Desktop\Estudos\PRINCIPAL\C#\Estudos PROG UNIVERSIDADE (universidade)\Aulas\1 ciclo\Sem 10\Ejercicios\Numero positivo o negativo\obj\Debug\net8.0\Numero positivo o negativo.AssemblyInfoInputs.cache
+C:\Users\Davi\Desktop\Estudos\PRINCIPAL\C#\Estudos PROG UNIVERSIDADE (universidade)\Aulas\1 ciclo\Sem 10\Ejercicios\Numero positivo o negativo\obj\Debug\net8.0\Numero positivo o negativo.AssemblyInfo.cs
+C:\Users\Davi\Desktop\Estudos\PRINCIPAL\C#\Estudos PROG UNIVERSIDADE (universidade)\Aulas\1 ciclo\Sem 10\Ejercicios\Numero positivo o negativo\obj\Debug\net8.0\Numero positivo o negativo.csproj.CoreCompileInputs.cache
+C:\Users\Davi\Desktop\Estudos\PRINCIPAL\C#\Estudos PROG UNIVERSIDADE (universidade)\Aulas\1 ciclo\Sem 10\Ejercicios\Numero positivo o negativo\obj\Debug\net8.0\Numero positivo o negativo.dll
+C:\Users\Davi\Desktop\Estudos\PRINCIPAL\C#\Estudos PROG UNIVERSIDADE (universidade)\Aulas\1 ciclo\Sem 10\Ejercicios\Numero positivo o negativo\obj\Debug\net8.0\refint\Numero positivo o negativo.dll
+C:\Users\Davi\Desktop\Estudos\PRINCIPAL\C#\Estudos PROG UNIVERSIDADE (universidade)\Aulas\1 ciclo\Sem 10\Ejercicios\Numero positivo o negativo\obj\Debug\net8.0\Numero positivo o negativo.pdb
+C:\Users\Davi\Desktop\Estudos\PRINCIPAL\C#\Estudos PROG UNIVERSIDADE (universidade)\Aulas\1 ciclo\Sem 10\Ejercicios\Numero positivo o negativo\obj\Debug\net8.0\Numero positivo o negativo.genruntimeconfig.cache
+C:\Users\Davi\Desktop\Estudos\PRINCIPAL\C#\Estudos PROG UNIVERSIDADE (universidade)\Aulas\1 ciclo\Sem 10\Ejercicios\Numero positivo o negativo\obj\Debug\net8.0\ref\Numero positivo o negativo.dll

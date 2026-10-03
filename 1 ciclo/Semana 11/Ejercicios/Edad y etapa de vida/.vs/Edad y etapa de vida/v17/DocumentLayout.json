@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Davi\\Documents\\REP-Estudios-Universidad_C-Sharp\\Estudios-Universidad_C-Sharp\\Temas universidad\\1 ciclo\\Semana 11\\Ejercicios\\Edad y etapa de vida\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{292C844B-DE39-4D46-BA2D-51189E0F48AB}|Edad y etapa de vida.csproj|c:\\users\\davi\\documents\\rep-estudios-universidad_c-sharp\\estudios-universidad_c-sharp\\temas universidad\\1 ciclo\\semana 11\\ejercicios\\edad y etapa de vida\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{292C844B-DE39-4D46-BA2D-51189E0F48AB}|Edad y etapa de vida.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Davi\\Documents\\REP-Estudios-Universidad_C-Sharp\\Estudios-Universidad_C-Sharp\\Temas universidad\\1 ciclo\\Semana 11\\Ejercicios\\Edad y etapa de vida\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Davi\\Documents\\REP-Estudios-Universidad_C-Sharp\\Estudios-Universidad_C-Sharp\\Temas universidad\\1 ciclo\\Semana 11\\Ejercicios\\Edad y etapa de vida\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T23:23:25.674Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+C:\Users\Davi\Documents\REP-Estudios-Universidad_C-Sharp\Estudios-Universidad_C-Sharp\Temas universidad\1 ciclo\Semana 09\Ejercicios\División por 5\bin\Debug\net8.0\División por 5.exe
+C:\Users\Davi\Documents\REP-Estudios-Universidad_C-Sharp\Estudios-Universidad_C-Sharp\Temas universidad\1 ciclo\Semana 09\Ejercicios\División por 5\bin\Debug\net8.0\División por 5.deps.json
+C:\Users\Davi\Documents\REP-Estudios-Universidad_C-Sharp\Estudios-Universidad_C-Sharp\Temas universidad\1 ciclo\Semana 09\Ejercicios\División por 5\bin\Debug\net8.0\División por 5.runtimeconfig.json
+C:\Users\Davi\Documents\REP-Estudios-Universidad_C-Sharp\Estudios-Universidad_C-Sharp\Temas universidad\1 ciclo\Semana 09\Ejercicios\División por 5\bin\Debug\net8.0\División por 5.dll
+C:\Users\Davi\Documents\REP-Estudios-Universidad_C-Sharp\Estudios-Universidad_C-Sharp\Temas universidad\1 ciclo\Semana 09\Ejercicios\División por 5\bin\Debug\net8.0\División por 5.pdb
+C:\Users\Davi\Documents\REP-Estudios-Universidad_C-Sharp\Estudios-Universidad_C-Sharp\Temas universidad\1 ciclo\Semana 09\Ejercicios\División por 5\obj\Debug\net8.0\División por 5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Davi\Documents\REP-Estudios-Universidad_C-Sharp\Estudios-Universidad_C-Sharp\Temas universidad\1 ciclo\Semana 09\Ejercicios\División por 5\obj\Debug\net8.0\División por 5.AssemblyInfoInputs.cache
+C:\Users\Davi\Documents\REP-Estudios-Universidad_C-Sharp\Estudios-Universidad_C-Sharp\Temas universidad\1 ciclo\Semana 09\Ejercicios\División por 5\obj\Debug\net8.0\División por 5.AssemblyInfo.cs
+C:\Users\Davi\Documents\REP-Estudios-Universidad_C-Sharp\Estudios-Universidad_C-Sharp\Temas universidad\1 ciclo\Semana 09\Ejercicios\División por 5\obj\Debug\net8.0\División por 5.csproj.CoreCompileInputs.cache
+C:\Users\Davi\Documents\REP-Estudios-Universidad_C-Sharp\Estudios-Universidad_C-Sharp\Temas universidad\1 ciclo\Semana 09\Ejercicios\División por 5\obj\Debug\net8.0\División por 5.sourcelink.json
+C:\Users\Davi\Documents\REP-Estudios-Universidad_C-Sharp\Estudios-Universidad_C-Sharp\Temas universidad\1 ciclo\Semana 09\Ejercicios\División por 5\obj\Debug\net8.0\División por 5.dll
+C:\Users\Davi\Documents\REP-Estudios-Universidad_C-Sharp\Estudios-Universidad_C-Sharp\Temas universidad\1 ciclo\Semana 09\Ejercicios\División por 5\obj\Debug\net8.0\refint\División por 5.dll
+C:\Users\Davi\Documents\REP-Estudios-Universidad_C-Sharp\Estudios-Universidad_C-Sharp\Temas universidad\1 ciclo\Semana 09\Ejercicios\División por 5\obj\Debug\net8.0\División por 5.pdb
+C:\Users\Davi\Documents\REP-Estudios-Universidad_C-Sharp\Estudios-Universidad_C-Sharp\Temas universidad\1 ciclo\Semana 09\Ejercicios\División por 5\obj\Debug\net8.0\División por 5.genruntimeconfig.cache
+C:\Users\Davi\Documents\REP-Estudios-Universidad_C-Sharp\Estudios-Universidad_C-Sharp\Temas universidad\1 ciclo\Semana 09\Ejercicios\División por 5\obj\Debug\net8.0\ref\División por 5.dll

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Velocidad maxima", "Velocidad maxima.csproj", "{4667EA0A-0974-407C-8624-1BE85F2A91CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4667EA0A-0974-407C-8624-1BE85F2A91CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4667EA0A-0974-407C-8624-1BE85F2A91CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4667EA0A-0974-407C-8624-1BE85F2A91CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4667EA0A-0974-407C-8624-1BE85F2A91CB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FCC5B8A9-B7FE-4BE8-B5AA-B93D15774FD7}
+	EndGlobalSection
+EndGlobal

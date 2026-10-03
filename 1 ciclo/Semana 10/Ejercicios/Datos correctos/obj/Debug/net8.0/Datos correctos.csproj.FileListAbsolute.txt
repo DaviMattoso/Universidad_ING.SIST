@@ -1,0 +1,14 @@
+C:\Users\Davi\Desktop\Estudos\PRINCIPAL\C#\Estudos PROG UNIVERSIDADE (universidade)\Aulas\1 ciclo\Sem 10\Ejercicios\Datos correctos\bin\Debug\net8.0\Datos correctos.exe
+C:\Users\Davi\Desktop\Estudos\PRINCIPAL\C#\Estudos PROG UNIVERSIDADE (universidade)\Aulas\1 ciclo\Sem 10\Ejercicios\Datos correctos\bin\Debug\net8.0\Datos correctos.deps.json
+C:\Users\Davi\Desktop\Estudos\PRINCIPAL\C#\Estudos PROG UNIVERSIDADE (universidade)\Aulas\1 ciclo\Sem 10\Ejercicios\Datos correctos\bin\Debug\net8.0\Datos correctos.runtimeconfig.json
+C:\Users\Davi\Desktop\Estudos\PRINCIPAL\C#\Estudos PROG UNIVERSIDADE (universidade)\Aulas\1 ciclo\Sem 10\Ejercicios\Datos correctos\bin\Debug\net8.0\Datos correctos.dll
+C:\Users\Davi\Desktop\Estudos\PRINCIPAL\C#\Estudos PROG UNIVERSIDADE (universidade)\Aulas\1 ciclo\Sem 10\Ejercicios\Datos correctos\bin\Debug\net8.0\Datos correctos.pdb
+C:\Users\Davi\Desktop\Estudos\PRINCIPAL\C#\Estudos PROG UNIVERSIDADE (universidade)\Aulas\1 ciclo\Sem 10\Ejercicios\Datos correctos\obj\Debug\net8.0\Datos correctos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Davi\Desktop\Estudos\PRINCIPAL\C#\Estudos PROG UNIVERSIDADE (universidade)\Aulas\1 ciclo\Sem 10\Ejercicios\Datos correctos\obj\Debug\net8.0\Datos correctos.AssemblyInfoInputs.cache
+C:\Users\Davi\Desktop\Estudos\PRINCIPAL\C#\Estudos PROG UNIVERSIDADE (universidade)\Aulas\1 ciclo\Sem 10\Ejercicios\Datos correctos\obj\Debug\net8.0\Datos correctos.AssemblyInfo.cs
+C:\Users\Davi\Desktop\Estudos\PRINCIPAL\C#\Estudos PROG UNIVERSIDADE (universidade)\Aulas\1 ciclo\Sem 10\Ejercicios\Datos correctos\obj\Debug\net8.0\Datos correctos.csproj.CoreCompileInputs.cache
+C:\Users\Davi\Desktop\Estudos\PRINCIPAL\C#\Estudos PROG UNIVERSIDADE (universidade)\Aulas\1 ciclo\Sem 10\Ejercicios\Datos correctos\obj\Debug\net8.0\Datos correctos.dll
+C:\Users\Davi\Desktop\Estudos\PRINCIPAL\C#\Estudos PROG UNIVERSIDADE (universidade)\Aulas\1 ciclo\Sem 10\Ejercicios\Datos correctos\obj\Debug\net8.0\refint\Datos correctos.dll
+C:\Users\Davi\Desktop\Estudos\PRINCIPAL\C#\Estudos PROG UNIVERSIDADE (universidade)\Aulas\1 ciclo\Sem 10\Ejercicios\Datos correctos\obj\Debug\net8.0\Datos correctos.pdb
+C:\Users\Davi\Desktop\Estudos\PRINCIPAL\C#\Estudos PROG UNIVERSIDADE (universidade)\Aulas\1 ciclo\Sem 10\Ejercicios\Datos correctos\obj\Debug\net8.0\Datos correctos.genruntimeconfig.cache
+C:\Users\Davi\Desktop\Estudos\PRINCIPAL\C#\Estudos PROG UNIVERSIDADE (universidade)\Aulas\1 ciclo\Sem 10\Ejercicios\Datos correctos\obj\Debug\net8.0\ref\Datos correctos.dll

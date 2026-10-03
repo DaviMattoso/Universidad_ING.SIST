@@ -1,0 +1,14 @@
+C:\Users\Davi\Desktop\Estudos\PRINCIPAL\C#\Estudos PROG UNIVERSIDADE (universidade)\Aulas\1 ciclo\Sem 10\Ejercicios\Año bisiesto\bin\Debug\net8.0\Año bisiesto.exe
+C:\Users\Davi\Desktop\Estudos\PRINCIPAL\C#\Estudos PROG UNIVERSIDADE (universidade)\Aulas\1 ciclo\Sem 10\Ejercicios\Año bisiesto\bin\Debug\net8.0\Año bisiesto.deps.json
+C:\Users\Davi\Desktop\Estudos\PRINCIPAL\C#\Estudos PROG UNIVERSIDADE (universidade)\Aulas\1 ciclo\Sem 10\Ejercicios\Año bisiesto\bin\Debug\net8.0\Año bisiesto.runtimeconfig.json
+C:\Users\Davi\Desktop\Estudos\PRINCIPAL\C#\Estudos PROG UNIVERSIDADE (universidade)\Aulas\1 ciclo\Sem 10\Ejercicios\Año bisiesto\bin\Debug\net8.0\Año bisiesto.dll
+C:\Users\Davi\Desktop\Estudos\PRINCIPAL\C#\Estudos PROG UNIVERSIDADE (universidade)\Aulas\1 ciclo\Sem 10\Ejercicios\Año bisiesto\bin\Debug\net8.0\Año bisiesto.pdb
+C:\Users\Davi\Desktop\Estudos\PRINCIPAL\C#\Estudos PROG UNIVERSIDADE (universidade)\Aulas\1 ciclo\Sem 10\Ejercicios\Año bisiesto\obj\Debug\net8.0\Año bisiesto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Davi\Desktop\Estudos\PRINCIPAL\C#\Estudos PROG UNIVERSIDADE (universidade)\Aulas\1 ciclo\Sem 10\Ejercicios\Año bisiesto\obj\Debug\net8.0\Año bisiesto.AssemblyInfoInputs.cache
+C:\Users\Davi\Desktop\Estudos\PRINCIPAL\C#\Estudos PROG UNIVERSIDADE (universidade)\Aulas\1 ciclo\Sem 10\Ejercicios\Año bisiesto\obj\Debug\net8.0\Año bisiesto.AssemblyInfo.cs
+C:\Users\Davi\Desktop\Estudos\PRINCIPAL\C#\Estudos PROG UNIVERSIDADE (universidade)\Aulas\1 ciclo\Sem 10\Ejercicios\Año bisiesto\obj\Debug\net8.0\Año bisiesto.csproj.CoreCompileInputs.cache
+C:\Users\Davi\Desktop\Estudos\PRINCIPAL\C#\Estudos PROG UNIVERSIDADE (universidade)\Aulas\1 ciclo\Sem 10\Ejercicios\Año bisiesto\obj\Debug\net8.0\Año bisiesto.dll
+C:\Users\Davi\Desktop\Estudos\PRINCIPAL\C#\Estudos PROG UNIVERSIDADE (universidade)\Aulas\1 ciclo\Sem 10\Ejercicios\Año bisiesto\obj\Debug\net8.0\refint\Año bisiesto.dll
+C:\Users\Davi\Desktop\Estudos\PRINCIPAL\C#\Estudos PROG UNIVERSIDADE (universidade)\Aulas\1 ciclo\Sem 10\Ejercicios\Año bisiesto\obj\Debug\net8.0\Año bisiesto.pdb
+C:\Users\Davi\Desktop\Estudos\PRINCIPAL\C#\Estudos PROG UNIVERSIDADE (universidade)\Aulas\1 ciclo\Sem 10\Ejercicios\Año bisiesto\obj\Debug\net8.0\Año bisiesto.genruntimeconfig.cache
+C:\Users\Davi\Desktop\Estudos\PRINCIPAL\C#\Estudos PROG UNIVERSIDADE (universidade)\Aulas\1 ciclo\Sem 10\Ejercicios\Año bisiesto\obj\Debug\net8.0\ref\Año bisiesto.dll

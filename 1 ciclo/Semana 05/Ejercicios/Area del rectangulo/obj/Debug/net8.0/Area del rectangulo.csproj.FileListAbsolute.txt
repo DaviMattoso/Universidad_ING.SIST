@@ -1,0 +1,15 @@
+C:\Users\Davi\Documents\REP-Estudios-Universidad_C-Sharp\Estudios-Universidad_C-Sharp\Temas universidad\1 ciclo\Semana 05\Area del rectangulo\bin\Debug\net8.0\Area del rectangulo.exe
+C:\Users\Davi\Documents\REP-Estudios-Universidad_C-Sharp\Estudios-Universidad_C-Sharp\Temas universidad\1 ciclo\Semana 05\Area del rectangulo\bin\Debug\net8.0\Area del rectangulo.deps.json
+C:\Users\Davi\Documents\REP-Estudios-Universidad_C-Sharp\Estudios-Universidad_C-Sharp\Temas universidad\1 ciclo\Semana 05\Area del rectangulo\bin\Debug\net8.0\Area del rectangulo.runtimeconfig.json
+C:\Users\Davi\Documents\REP-Estudios-Universidad_C-Sharp\Estudios-Universidad_C-Sharp\Temas universidad\1 ciclo\Semana 05\Area del rectangulo\bin\Debug\net8.0\Area del rectangulo.dll
+C:\Users\Davi\Documents\REP-Estudios-Universidad_C-Sharp\Estudios-Universidad_C-Sharp\Temas universidad\1 ciclo\Semana 05\Area del rectangulo\bin\Debug\net8.0\Area del rectangulo.pdb
+C:\Users\Davi\Documents\REP-Estudios-Universidad_C-Sharp\Estudios-Universidad_C-Sharp\Temas universidad\1 ciclo\Semana 05\Area del rectangulo\obj\Debug\net8.0\Area del rectangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Davi\Documents\REP-Estudios-Universidad_C-Sharp\Estudios-Universidad_C-Sharp\Temas universidad\1 ciclo\Semana 05\Area del rectangulo\obj\Debug\net8.0\Area del rectangulo.AssemblyInfoInputs.cache
+C:\Users\Davi\Documents\REP-Estudios-Universidad_C-Sharp\Estudios-Universidad_C-Sharp\Temas universidad\1 ciclo\Semana 05\Area del rectangulo\obj\Debug\net8.0\Area del rectangulo.AssemblyInfo.cs
+C:\Users\Davi\Documents\REP-Estudios-Universidad_C-Sharp\Estudios-Universidad_C-Sharp\Temas universidad\1 ciclo\Semana 05\Area del rectangulo\obj\Debug\net8.0\Area del rectangulo.csproj.CoreCompileInputs.cache
+C:\Users\Davi\Documents\REP-Estudios-Universidad_C-Sharp\Estudios-Universidad_C-Sharp\Temas universidad\1 ciclo\Semana 05\Area del rectangulo\obj\Debug\net8.0\Area del rectangulo.sourcelink.json
+C:\Users\Davi\Documents\REP-Estudios-Universidad_C-Sharp\Estudios-Universidad_C-Sharp\Temas universidad\1 ciclo\Semana 05\Area del rectangulo\obj\Debug\net8.0\Area del rectangulo.dll
+C:\Users\Davi\Documents\REP-Estudios-Universidad_C-Sharp\Estudios-Universidad_C-Sharp\Temas universidad\1 ciclo\Semana 05\Area del rectangulo\obj\Debug\net8.0\refint\Area del rectangulo.dll
+C:\Users\Davi\Documents\REP-Estudios-Universidad_C-Sharp\Estudios-Universidad_C-Sharp\Temas universidad\1 ciclo\Semana 05\Area del rectangulo\obj\Debug\net8.0\Area del rectangulo.pdb
+C:\Users\Davi\Documents\REP-Estudios-Universidad_C-Sharp\Estudios-Universidad_C-Sharp\Temas universidad\1 ciclo\Semana 05\Area del rectangulo\obj\Debug\net8.0\Area del rectangulo.genruntimeconfig.cache
+C:\Users\Davi\Documents\REP-Estudios-Universidad_C-Sharp\Estudios-Universidad_C-Sharp\Temas universidad\1 ciclo\Semana 05\Area del rectangulo\obj\Debug\net8.0\ref\Area del rectangulo.dll

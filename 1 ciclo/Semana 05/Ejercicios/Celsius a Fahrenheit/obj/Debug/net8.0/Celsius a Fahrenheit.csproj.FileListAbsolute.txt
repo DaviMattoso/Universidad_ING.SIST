@@ -1,0 +1,15 @@
+C:\Users\Davi\Documents\REP-Estudios-Universidad_C-Sharp\Estudios-Universidad_C-Sharp\Temas universidad\1 ciclo\Semana 05\Ejercicios\Celsius a Fahrenheit\bin\Debug\net8.0\Celsius a Fahrenheit.exe
+C:\Users\Davi\Documents\REP-Estudios-Universidad_C-Sharp\Estudios-Universidad_C-Sharp\Temas universidad\1 ciclo\Semana 05\Ejercicios\Celsius a Fahrenheit\bin\Debug\net8.0\Celsius a Fahrenheit.deps.json
+C:\Users\Davi\Documents\REP-Estudios-Universidad_C-Sharp\Estudios-Universidad_C-Sharp\Temas universidad\1 ciclo\Semana 05\Ejercicios\Celsius a Fahrenheit\bin\Debug\net8.0\Celsius a Fahrenheit.runtimeconfig.json
+C:\Users\Davi\Documents\REP-Estudios-Universidad_C-Sharp\Estudios-Universidad_C-Sharp\Temas universidad\1 ciclo\Semana 05\Ejercicios\Celsius a Fahrenheit\bin\Debug\net8.0\Celsius a Fahrenheit.dll
+C:\Users\Davi\Documents\REP-Estudios-Universidad_C-Sharp\Estudios-Universidad_C-Sharp\Temas universidad\1 ciclo\Semana 05\Ejercicios\Celsius a Fahrenheit\bin\Debug\net8.0\Celsius a Fahrenheit.pdb
+C:\Users\Davi\Documents\REP-Estudios-Universidad_C-Sharp\Estudios-Universidad_C-Sharp\Temas universidad\1 ciclo\Semana 05\Ejercicios\Celsius a Fahrenheit\obj\Debug\net8.0\Celsius a Fahrenheit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Davi\Documents\REP-Estudios-Universidad_C-Sharp\Estudios-Universidad_C-Sharp\Temas universidad\1 ciclo\Semana 05\Ejercicios\Celsius a Fahrenheit\obj\Debug\net8.0\Celsius a Fahrenheit.AssemblyInfoInputs.cache
+C:\Users\Davi\Documents\REP-Estudios-Universidad_C-Sharp\Estudios-Universidad_C-Sharp\Temas universidad\1 ciclo\Semana 05\Ejercicios\Celsius a Fahrenheit\obj\Debug\net8.0\Celsius a Fahrenheit.AssemblyInfo.cs
+C:\Users\Davi\Documents\REP-Estudios-Universidad_C-Sharp\Estudios-Universidad_C-Sharp\Temas universidad\1 ciclo\Semana 05\Ejercicios\Celsius a Fahrenheit\obj\Debug\net8.0\Celsius a Fahrenheit.csproj.CoreCompileInputs.cache
+C:\Users\Davi\Documents\REP-Estudios-Universidad_C-Sharp\Estudios-Universidad_C-Sharp\Temas universidad\1 ciclo\Semana 05\Ejercicios\Celsius a Fahrenheit\obj\Debug\net8.0\Celsius a Fahrenheit.sourcelink.json
+C:\Users\Davi\Documents\REP-Estudios-Universidad_C-Sharp\Estudios-Universidad_C-Sharp\Temas universidad\1 ciclo\Semana 05\Ejercicios\Celsius a Fahrenheit\obj\Debug\net8.0\Celsius a Fahrenheit.dll
+C:\Users\Davi\Documents\REP-Estudios-Universidad_C-Sharp\Estudios-Universidad_C-Sharp\Temas universidad\1 ciclo\Semana 05\Ejercicios\Celsius a Fahrenheit\obj\Debug\net8.0\refint\Celsius a Fahrenheit.dll
+C:\Users\Davi\Documents\REP-Estudios-Universidad_C-Sharp\Estudios-Universidad_C-Sharp\Temas universidad\1 ciclo\Semana 05\Ejercicios\Celsius a Fahrenheit\obj\Debug\net8.0\Celsius a Fahrenheit.pdb
+C:\Users\Davi\Documents\REP-Estudios-Universidad_C-Sharp\Estudios-Universidad_C-Sharp\Temas universidad\1 ciclo\Semana 05\Ejercicios\Celsius a Fahrenheit\obj\Debug\net8.0\Celsius a Fahrenheit.genruntimeconfig.cache
+C:\Users\Davi\Documents\REP-Estudios-Universidad_C-Sharp\Estudios-Universidad_C-Sharp\Temas universidad\1 ciclo\Semana 05\Ejercicios\Celsius a Fahrenheit\obj\Debug\net8.0\ref\Celsius a Fahrenheit.dll

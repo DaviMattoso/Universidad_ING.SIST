@@ -1,0 +1,15 @@
+C:\Users\Davi\Documents\REP-Estudios-Universidad_C-Sharp\Estudios-Universidad_C-Sharp\Temas universidad\1 ciclo\Semana 09\Ejercicios\Accesi por clave\bin\Debug\net8.0\Accesi por clave.exe
+C:\Users\Davi\Documents\REP-Estudios-Universidad_C-Sharp\Estudios-Universidad_C-Sharp\Temas universidad\1 ciclo\Semana 09\Ejercicios\Accesi por clave\bin\Debug\net8.0\Accesi por clave.deps.json
+C:\Users\Davi\Documents\REP-Estudios-Universidad_C-Sharp\Estudios-Universidad_C-Sharp\Temas universidad\1 ciclo\Semana 09\Ejercicios\Accesi por clave\bin\Debug\net8.0\Accesi por clave.runtimeconfig.json
+C:\Users\Davi\Documents\REP-Estudios-Universidad_C-Sharp\Estudios-Universidad_C-Sharp\Temas universidad\1 ciclo\Semana 09\Ejercicios\Accesi por clave\bin\Debug\net8.0\Accesi por clave.dll
+C:\Users\Davi\Documents\REP-Estudios-Universidad_C-Sharp\Estudios-Universidad_C-Sharp\Temas universidad\1 ciclo\Semana 09\Ejercicios\Accesi por clave\bin\Debug\net8.0\Accesi por clave.pdb
+C:\Users\Davi\Documents\REP-Estudios-Universidad_C-Sharp\Estudios-Universidad_C-Sharp\Temas universidad\1 ciclo\Semana 09\Ejercicios\Accesi por clave\obj\Debug\net8.0\Accesi por clave.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Davi\Documents\REP-Estudios-Universidad_C-Sharp\Estudios-Universidad_C-Sharp\Temas universidad\1 ciclo\Semana 09\Ejercicios\Accesi por clave\obj\Debug\net8.0\Accesi por clave.AssemblyInfoInputs.cache
+C:\Users\Davi\Documents\REP-Estudios-Universidad_C-Sharp\Estudios-Universidad_C-Sharp\Temas universidad\1 ciclo\Semana 09\Ejercicios\Accesi por clave\obj\Debug\net8.0\Accesi por clave.AssemblyInfo.cs
+C:\Users\Davi\Documents\REP-Estudios-Universidad_C-Sharp\Estudios-Universidad_C-Sharp\Temas universidad\1 ciclo\Semana 09\Ejercicios\Accesi por clave\obj\Debug\net8.0\Accesi por clave.csproj.CoreCompileInputs.cache
+C:\Users\Davi\Documents\REP-Estudios-Universidad_C-Sharp\Estudios-Universidad_C-Sharp\Temas universidad\1 ciclo\Semana 09\Ejercicios\Accesi por clave\obj\Debug\net8.0\Accesi por clave.sourcelink.json
+C:\Users\Davi\Documents\REP-Estudios-Universidad_C-Sharp\Estudios-Universidad_C-Sharp\Temas universidad\1 ciclo\Semana 09\Ejercicios\Accesi por clave\obj\Debug\net8.0\Accesi por clave.dll
+C:\Users\Davi\Documents\REP-Estudios-Universidad_C-Sharp\Estudios-Universidad_C-Sharp\Temas universidad\1 ciclo\Semana 09\Ejercicios\Accesi por clave\obj\Debug\net8.0\refint\Accesi por clave.dll
+C:\Users\Davi\Documents\REP-Estudios-Universidad_C-Sharp\Estudios-Universidad_C-Sharp\Temas universidad\1 ciclo\Semana 09\Ejercicios\Accesi por clave\obj\Debug\net8.0\Accesi por clave.pdb
+C:\Users\Davi\Documents\REP-Estudios-Universidad_C-Sharp\Estudios-Universidad_C-Sharp\Temas universidad\1 ciclo\Semana 09\Ejercicios\Accesi por clave\obj\Debug\net8.0\Accesi por clave.genruntimeconfig.cache
+C:\Users\Davi\Documents\REP-Estudios-Universidad_C-Sharp\Estudios-Universidad_C-Sharp\Temas universidad\1 ciclo\Semana 09\Ejercicios\Accesi por clave\obj\Debug\net8.0\ref\Accesi por clave.dll

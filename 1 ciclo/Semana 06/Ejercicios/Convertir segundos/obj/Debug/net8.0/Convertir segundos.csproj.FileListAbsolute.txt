@@ -1,0 +1,15 @@
+C:\Users\Davi\Documents\REP-Estudios-Universidad_C-Sharp\Estudios-Universidad_C-Sharp\Temas universidad\1 ciclo\Semana 06\Ejercicios\Convertir segundos\bin\Debug\net8.0\Convertir segundos.exe
+C:\Users\Davi\Documents\REP-Estudios-Universidad_C-Sharp\Estudios-Universidad_C-Sharp\Temas universidad\1 ciclo\Semana 06\Ejercicios\Convertir segundos\bin\Debug\net8.0\Convertir segundos.deps.json
+C:\Users\Davi\Documents\REP-Estudios-Universidad_C-Sharp\Estudios-Universidad_C-Sharp\Temas universidad\1 ciclo\Semana 06\Ejercicios\Convertir segundos\bin\Debug\net8.0\Convertir segundos.runtimeconfig.json
+C:\Users\Davi\Documents\REP-Estudios-Universidad_C-Sharp\Estudios-Universidad_C-Sharp\Temas universidad\1 ciclo\Semana 06\Ejercicios\Convertir segundos\bin\Debug\net8.0\Convertir segundos.dll
+C:\Users\Davi\Documents\REP-Estudios-Universidad_C-Sharp\Estudios-Universidad_C-Sharp\Temas universidad\1 ciclo\Semana 06\Ejercicios\Convertir segundos\bin\Debug\net8.0\Convertir segundos.pdb
+C:\Users\Davi\Documents\REP-Estudios-Universidad_C-Sharp\Estudios-Universidad_C-Sharp\Temas universidad\1 ciclo\Semana 06\Ejercicios\Convertir segundos\obj\Debug\net8.0\Convertir segundos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Davi\Documents\REP-Estudios-Universidad_C-Sharp\Estudios-Universidad_C-Sharp\Temas universidad\1 ciclo\Semana 06\Ejercicios\Convertir segundos\obj\Debug\net8.0\Convertir segundos.AssemblyInfoInputs.cache
+C:\Users\Davi\Documents\REP-Estudios-Universidad_C-Sharp\Estudios-Universidad_C-Sharp\Temas universidad\1 ciclo\Semana 06\Ejercicios\Convertir segundos\obj\Debug\net8.0\Convertir segundos.AssemblyInfo.cs
+C:\Users\Davi\Documents\REP-Estudios-Universidad_C-Sharp\Estudios-Universidad_C-Sharp\Temas universidad\1 ciclo\Semana 06\Ejercicios\Convertir segundos\obj\Debug\net8.0\Convertir segundos.csproj.CoreCompileInputs.cache
+C:\Users\Davi\Documents\REP-Estudios-Universidad_C-Sharp\Estudios-Universidad_C-Sharp\Temas universidad\1 ciclo\Semana 06\Ejercicios\Convertir segundos\obj\Debug\net8.0\Convertir segundos.sourcelink.json
+C:\Users\Davi\Documents\REP-Estudios-Universidad_C-Sharp\Estudios-Universidad_C-Sharp\Temas universidad\1 ciclo\Semana 06\Ejercicios\Convertir segundos\obj\Debug\net8.0\Convertir segundos.dll
+C:\Users\Davi\Documents\REP-Estudios-Universidad_C-Sharp\Estudios-Universidad_C-Sharp\Temas universidad\1 ciclo\Semana 06\Ejercicios\Convertir segundos\obj\Debug\net8.0\refint\Convertir segundos.dll
+C:\Users\Davi\Documents\REP-Estudios-Universidad_C-Sharp\Estudios-Universidad_C-Sharp\Temas universidad\1 ciclo\Semana 06\Ejercicios\Convertir segundos\obj\Debug\net8.0\Convertir segundos.pdb
+C:\Users\Davi\Documents\REP-Estudios-Universidad_C-Sharp\Estudios-Universidad_C-Sharp\Temas universidad\1 ciclo\Semana 06\Ejercicios\Convertir segundos\obj\Debug\net8.0\Convertir segundos.genruntimeconfig.cache
+C:\Users\Davi\Documents\REP-Estudios-Universidad_C-Sharp\Estudios-Universidad_C-Sharp\Temas universidad\1 ciclo\Semana 06\Ejercicios\Convertir segundos\obj\Debug\net8.0\ref\Convertir segundos.dll

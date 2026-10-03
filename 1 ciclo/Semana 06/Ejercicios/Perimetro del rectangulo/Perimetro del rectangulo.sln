@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Perimetro del rectangulo", "Perimetro del rectangulo.csproj", "{CD969CC2-6D92-491A-80E9-6182B4AB3CC2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD969CC2-6D92-491A-80E9-6182B4AB3CC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD969CC2-6D92-491A-80E9-6182B4AB3CC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD969CC2-6D92-491A-80E9-6182B4AB3CC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD969CC2-6D92-491A-80E9-6182B4AB3CC2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A422EA56-3D27-45B5-BABD-9CE35D1CC57A}
+	EndGlobalSection
+EndGlobal
