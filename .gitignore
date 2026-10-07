@@ -1,9 +1,7 @@
-# Visual Studio
 **/.vs/
 **/bin/
 **/obj/
 
-# Arquivos locais do Visual Studio
 *.user
 *.suo
 *.userosscache
